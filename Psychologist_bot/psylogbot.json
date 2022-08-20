@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psylogbot-mipg",
+  "private_key_id": "d3ea6b835cb548b9f49e8cfceda863f3eb04b084",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqYruniqQN7D4c\neFm2b7LE3uw1t1/j/M4GtRsjbQs6RCge1KHg8W0l/U3mqqJ4cIY/PaP1AX6Mg5nE\n/wkl9gPc/KXHoEkswJlJkyfs2/EFMwZJbbupOq0ttaOnBQem3OmXE9Whjm4Sc409\n9b/gk+p8fZb7c2yd7hO0R+pYk2cnwzA7MxWTzbIy9X94hzQasGv4q1CFLESc1Sa4\nHUqDEmuDg0HNqicnqny+UJUkCv8A1z0VsEJEkl0vLwpXNFkfgSBbnxEQorPbD6ze\nu2nXqTQwdC1ctQRX4TNgpUgsHoYboAC99vx2vHhAowjjpC7nmbRsOB/r9+mveH6f\nxAnvOetnAgMBAAECggEAD6JWoLV2fzaNrnQWm0hdiXYBC57DZDqWtwPYNSR00shd\nPBL7tZXBk6pOAxvmI5IDp3ri+ADGmWMb8XkLYFnWGelu1sXs4PfdOOSRVckKsRTw\n/zzb6tfQ+zA/D3zFKnj70BqIUDYvAG9s5uINVLCN5BVsDK+XKFinozO0G6OO5BV9\nHA62uwpg+VmXB+IzJSUarbdoBPrG28vnxMqDF5cSa0qeS5P8maCui5svMNIcnFAf\n7mnuH/sEhXE2m5Xxw9Be2bP/udg5Y5AgpgwSgi9Sd2myk2UIt4VHnwyHj0yqk1LH\nvYLN4qrfUaIxzghhZgFOlFn9hcUn5V9CLuhVO3fvvQKBgQDQ4Cja30d4I5ywZH7S\nuDtKYCHORw8fM2zJPwJirzU6TI/lgCXx1HsQC3RHznUl2tMjenmJAwShhVkQPIc6\nupP8w0uQrjGj81QOs80g3JNPA0lCrCmn9owPGZsT0MXlLsVePe782ajGJRbbTqll\nZaw90ojyd8GqlCaFCJuwYM8t+wKBgQDQ04tbFz3Vmq2+LcHL8jVz5JuR71LmFZ3w\nFC3KbZSbxn+ADdGCansWRHxbIId2Uspigd5jLnnPT8RkoAb+AhIrMNfAP12Ij2XJ\nMw1sXhdg9modHGSd2hXE10N6oJlytweAc8pL4WncGoEG8G9vLU8o7EpExY6ovsO4\n1USRgL6YhQKBgGZ8Vg9uVobgElWKOZ/yvUS0/mFUBFtuxAXKYMVC6n78ae5Vfki1\n1Nv+gsNozZoRUF+sDE3pqTAHWbfZuxBZ05rFyCHpFno3PhsopZFmKPEvz5ZjGt1K\n31XZXnnOigr1c+nVwZlWwrTWJezdH8icpnJ/BqrRj7i+kFfd7WYRWhZZAoGBAITT\n6jI4qFY0Gwt642gsWh+ra+D5j4tWeK16yF2YMgybyAHVyEviGwTg7xCvsjprEtxx\nqtj/eO+K12sB9zCedJwQZ0ubgo0YWTAPTxx9BPXiB0EZDE7zpyEbo4pemPxEu3rT\nK/v0F3evTB7z1I2tDksDcYIo/0MKhEgPL5w1fgZZAoGACUtZkforF+mmHxvt6kvl\nZOgytP5JDP8E/d5iIR1cMBktRKTDOXrlZkD8Xg+QeqlZJsv6G1v4/nIleGO9+KJB\nQSG09nieX3JQ02ZjCPBLoURmSh/ZM033mVX77rm2ztclzJTKS0x6Tdugr8LOvhNY\nF2zNmHRnIjSwN4NxIs59fag=\n-----END PRIVATE KEY-----\n",
+  "client_email": "psylogbot@psylogbot-mipg.iam.gserviceaccount.com",
+  "client_id": "116610111419265284542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/psylogbot%40psylogbot-mipg.iam.gserviceaccount.com"
+}
