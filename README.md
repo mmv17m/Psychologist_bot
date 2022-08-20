@@ -1,3 +1,5 @@
+Создатель: Медведев Михаил
+
 # Для тестирования
 https://t.me/example_psychologist_bot
 
