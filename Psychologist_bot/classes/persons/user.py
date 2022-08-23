@@ -16,7 +16,7 @@ class User(person.Person):
 	async def start(self, mess):
 		await self.send("""
     	    Чат-бот психолог PsylogBot
-    	    Автор: @MedvedevKWORK
+    	    Автор: @kensichgam
     	""", {'append' : "Вызвать службу поддержки"})
 
 		await self.switch_mode("interview")
